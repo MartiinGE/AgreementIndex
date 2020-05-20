@@ -1,3 +1,10 @@
+def patternvector(H):
+    P=np.zeros(len(H))
+    for i,val in enumerate(H):
+        if val != 0:
+            P[i]=1
+    return P
+
 def Patternagreement(P):
     if max(P)>1:
         raise ValueError("Somethings wrong here")
