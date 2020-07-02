@@ -1,5 +1,5 @@
 # AgreementIndex
-Python AgreementIndex
+Python Agreement Index
 This is the Van Eijk Agreement Index as Python function
 
 Van Der Eijk, C. Measuring Agreement in Ordered Rating Scales. Quality & Quantity 35, 325–341 (2001). 
